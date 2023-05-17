@@ -114,7 +114,7 @@ In this example, we will only concern ourselves with how to use the
 configuration and we will ignore `factory` and `profile` for now. These will be
 covered in the later sections. The full source code to this example can be found
 in `AdaptorExamples/HelloWorld` and it can be compiled through following steps
-(startig from the Passes root folder):
+(starting from the Passes root folder):
 
 ```sh
 mkdir Debug
