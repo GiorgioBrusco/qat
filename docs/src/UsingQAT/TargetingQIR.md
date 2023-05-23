@@ -230,7 +230,7 @@ In case of a QIR that uses statically allocated qubits and/or results, the
 static resource adaptor allows manipulation to archieve certain properties. One
 such property is enforcing consecutive indexing starting 0 and another is the
 ability to ensure that a new qubit is used whenever a reset occurs. The latter
-garantuees that qubits are not reused within the lifetime of the program and is
+guarantees that qubits are not reused within the lifetime of the program and is
 a prerequisite for measurement at the end of the program execution.
 
 | Name                      | Description                                                                | Default value |
