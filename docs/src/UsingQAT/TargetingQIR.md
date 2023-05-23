@@ -14,7 +14,7 @@ Below we list all settings that are used to configure how QAT is running:
 | ------------------------ | ------------------------------------------------------------------------- | ------------- |
 | apply                    | Applies a adaptor to transform the IR in correspondence with the adaptor. | false         |
 | validate                 | Executes the validation procedure.                                        | false         |
-| adaptor-pipeline         | Overrides the adaptor pipleline.                                          |               |
+| adaptor-pipeline         | Overrides the adaptor pipeline.                                          |               |
 | emit-human-readable-llvm | Emits LLVM IR to the standard output.                                     | false         |
 | target-def               | YAML file containing the definition for the target.                       |               |
 | save-config              | YAML file to which the config will be save.                               |               |
