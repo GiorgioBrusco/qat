@@ -106,7 +106,7 @@ default all adaptors are activated. While this does not mean that they actively
 perform any transformation of the IR, it does mean that the adaptor code is
 loaded and that the adaptor will be operating in accordance with its settings.
 
-The indiidual adaptors that can be disabled are listed here:
+The individual adaptors that can be disabled are listed here:
 
 | Name                                    | Description                               | Default value |
 | --------------------------------------- | ----------------------------------------- | ------------- |
