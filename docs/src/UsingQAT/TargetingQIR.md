@@ -42,7 +42,7 @@ is `replacement-linking`, `llvm-optimization`,
 `grouping`. Each of these adaptors are discussed in detail below.
 
 The parameter `target-def` is used to load configuration of QAT including all
-adaptors and validations settings. This parameter is usful to create definitions
+adaptors and validations settings. This parameter is useful to create definitions
 that can be used to target specific hardware without the need of providing an
 exhaustive list of commandline arguments.
 
