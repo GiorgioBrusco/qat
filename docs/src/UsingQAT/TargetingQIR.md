@@ -215,7 +215,7 @@ to the replacing function being present in the IR. As an example, imagine a
 backend that implements an X gate but not a Z gate. A QIR that makes use of Z
 gates would not run on said hardware unless we would map Z into the sequence HXH
 where H is the Hadamard gate. The replacement linking adaptor allows us to
-define a software implemention of Z in a separate library and use annotattions
+define a software implemention of Z in a separate library and use annotations
 on the Z gate function to replace the gate if a software implementation is
 provided.
 
